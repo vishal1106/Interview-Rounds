@@ -1,0 +1,25 @@
+
+.box{
+    display: flex;
+    gap: 30px;
+    
+
+}
+
+.main{
+    display: grid;
+    width: 70%;
+    grid-template-columns: repeat(2,1fr);
+    gap: 30px;
+    margin: auto;
+    margin-top: 40px;
+  
+}
+.main{
+    border: 3px solid gray;
+}
+
+.main1{
+    display: flex;
+    gap: 20px;
+}
